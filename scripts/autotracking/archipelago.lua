@@ -1,4 +1,4 @@
--- this is an example/ default implementation for AP autotracking
+-- this is an example/default implementation for AP autotracking
 -- it will use the mappings defined in item_mapping.lua and location_mapping.lua to track items and locations via thier ids
 -- it will also load the AP slot data in the global SLOT_DATA, keep track of the current index of on_item messages in CUR_INDEX
 -- addition it will keep track of what items are local items and which one are remote using the globals LOCAL_ITEMS and GLOBAL_ITEMS
