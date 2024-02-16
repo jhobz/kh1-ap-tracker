@@ -1,0 +1,85 @@
+[
+    {
+        "name": "End of the World",
+        "children": [
+            {
+                "name": "World Terminus",
+                "sections": [
+                    {
+                        "name": "100 Acre Wood Chest",
+                        "access_rules": [
+                            "endoftheworld"
+                        ]
+                    },
+                    {
+                        "name": "Hollow Bastion Chest",
+                        "access_rules": [
+                            "endoftheworld"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "endoftheworld",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Final Rest",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "endoftheworld"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "endoftheworld",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Chernabog",
+                "sections": [
+                    {
+                        "name": "Superglide Event",
+                        "access_rules": [
+                            "endoftheworld"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "endoftheworld",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Final Ansem",
+                "sections": [
+                    {
+                        "name": "Final Ansem",
+                        "access_rules": [
+                            "endoftheworld"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "endoftheworld",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

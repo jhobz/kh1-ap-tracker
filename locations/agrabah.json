@@ -1,0 +1,505 @@
+[
+    {
+        "name": "Agrabah",
+        "children": [
+            {
+                "name": "Plaza",
+                "sections": [
+                    {
+                        "name": "By Storage Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Raised Terrace Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Top Corner Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Alley",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Bazaar",
+                "sections": [
+                    {
+                        "name": "Across Windows Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "High Corner Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Main Street",
+                "sections": [
+                    {
+                        "name": "Right Palace Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "High Above Alley Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "High Above Palace Gates Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Palace Gates",
+                "sections": [
+                    {
+                        "name": "Low Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "High Opposite Palace Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "High Close to Palace Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Storage",
+                "sections": [
+                    {
+                        "name": "Green Trinity Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Behind Barrel Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Entrance",
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Tall Tower Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Hall",
+                "sections": [
+                    {
+                        "name": "High Left Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Near Bottomless Hall Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Bottomless Hall",
+                "sections": [
+                    {
+                        "name": "Raised Platform Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Pillar Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Across Chasm Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Treasure Room",
+                "sections": [
+                    {
+                        "name": "Across Platforms Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Small Treasure Pile Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Large Treasure Pile Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Above Fire Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 450,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Relic Chamber",
+                "sections": [
+                    {
+                        "name": "Jump from Stairs Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Stairs Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 500,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Dark Chamber",
+                "sections": [
+                    {
+                        "name": "Abu Gem Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Across from Relic Chamber Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Bridge Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Near Save Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 550,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Silent Chamber",
+                "sections": [
+                    {
+                        "name": "Blue Trinity Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 600,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cave of Wonders Hidden Room",
+                "sections": [
+                    {
+                        "name": "Right Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Left Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 650,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Aladdin's House",
+                "sections": [
+                    {
+                        "name": "Main Street Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Plaza Entrance Chest",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 700,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Pot Centipede",
+                "sections": [
+                    {
+                        "name": "Ray of Light Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 750,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Jafar",
+                "sections": [
+                    {
+                        "name": "Blizzard Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 800,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Genie Jafar",
+                "sections": [
+                    {
+                        "name": "Fire Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Genie Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Three Wishes Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Green Trinity Event",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 1",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 850,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Kurt Zisa",
+                "sections": [
+                    {
+                        "name": "Ansem's Secret Report 11",
+                        "access_rules": [
+                            "agrabah"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "agrabah",
+                        "x": 900,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

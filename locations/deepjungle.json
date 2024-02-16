@@ -1,0 +1,301 @@
+[
+    {
+        "name": "Deep Jungle",
+        "children": [
+            {
+                "name": "Tree House",
+                "sections": [
+                    {
+                        "name": "Beneath Tree House Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Rooftop Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Suspended Boat Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Hippo's Lagoon",
+                "sections": [
+                    {
+                        "name": "Center Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Left Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Right Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Vines",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Vines 2",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Climbing Trees",
+                "sections": [
+                    {
+                        "name": "Blue Trinity Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Tunnel",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cavern of Hearts",
+                "sections": [
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Jungle King Event",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Red Trinity Event",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Camp",
+                "sections": [
+                    {
+                        "name": "Blue Trinity Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Tent",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Waterfall Cavern",
+                "sections": [
+                    {
+                        "name": "Low Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Middle Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "High Wall Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "High Middle Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 450,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cliff",
+                "sections": [
+                    {
+                        "name": "Right Cliff Left Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    },
+                    {
+                        "name": "Right Cliff Right Chest",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 500,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Sabor",
+                "sections": [
+                    {
+                        "name": "White Fang Event",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 550,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Clayton",
+                "sections": [
+                    {
+                        "name": "Cure Event",
+                        "access_rules": [
+                            "deepjungle"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "deepjungle",
+                        "x": 600,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

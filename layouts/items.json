@@ -1,12 +1,10 @@
-// sets layouts for shadred items grids
-// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
 {
     "shared_item_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
-            {
+            { // Keyblades
                 "type": "array",
                 "orientation": "horizontal",
                 "margin": "0,0",
@@ -17,12 +15,251 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                                "toggle",
-                                "progressive"           
-                            ],
+                                "jungleking",
+                                "threewishes",
+                                "fairyharp",
+                                "pumpkinhead",
+                                "crabclaw",
+                                "divinerose",
+                                "spellbinder",
+                                "olympia",
+                                "lionheart",
+                                "metalchocobo",
+                                "oathkeeper",
+                                "oblivion",
+                                "ladyluck",
+                                "wishingstar",
+                                "ultimaweapon",
+                                "diamonddust",
+                                "one-wingedangel"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Key Items
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
                             [
-                                "consumable",
-                                "progressive_toggle"
+                                "emblempiece(flame)",
+                                "emblempiece(chest)",
+                                "emblempiece(statue)",
+                                "emblempiece(fountain)",
+                                "postcard",
+                                "slide1",
+                                "footprints",
+                                "jack-in-the-box"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Shared Abilities
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "highjump",
+                                "mermaidkick",
+                                "glide",
+                                "superglide"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Abilities
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "treasuremagnet",
+                                "comboplus",
+                                "aircomboplus",
+                                "criticalplus",
+                                "scan",
+                                "sonicblade",
+                                "arsarcanum",
+                                "strikeraid",
+                                "ragnarok",
+                                "trinitylimit",
+                                "cheer",
+                                "vortex",
+                                "aerialsweep",
+                                "counterattack",
+                                "blitz",
+                                "guard",
+                                "dodgeroll",
+                                "mphaste",
+                                "mprage",
+                                "secondchance",
+                                "berserk",
+                                "jackpot",
+                                "luckystrike",
+                                "slapshot",
+                                "slidingdash",
+                                "hurricaneblast",
+                                "rippledrive",
+                                "stunimpact",
+                                "gravitybreak",
+                                "zantetsuken",
+                                "techboost",
+                                "encounterplus",
+                                "leafbracer",
+                                "expzero",
+                                "combomaster"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Level Ups
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "maxhpincrease",
+                                "maxmpincrease",
+                                "maxapincrease",
+                                "strengthincrease",
+                                "defenseincrease",
+                                "accessoryslotincrease",
+                                "itemslotincrease"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Summons
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "dumbo",
+                                "bambi",
+                                "genie",
+                                "tinkerbell",
+                                "mushu",
+                                "simba"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Magic
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "fire",
+                                "blizzard",
+                                "thunder",
+                                "cure",
+                                "gravity",
+                                "stop",
+                                "aero"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Worlds
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "wl",
+                                "oc",
+                                "dj",
+                                "ag",
+                                "ht",
+                                "at",
+                                "nl",
+                                "hb",
+                                "mo"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Trinities
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "bluetrinity",
+                                "redtrinity",
+                                "greentrinity",
+                                "yellowtrinity",
+                                "whitetrinity"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            { // Cups
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "philcup",
+                                "pegasuscup",
+                                "herccup"
                             ]
                         ]
                     }

@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Wonderland",
+        "children": [
+            {
+                "name": "Rabbit Hole",
+                "sections": [
+                    {
+                        "name": "Green Trinity Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Defeat Heartless 1 Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Defeat Heartless 2 Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Defeat Heartless 3 Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Bizarre Room",
+                "sections": [
+                    {
+                        "name": "Green Trinity Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Lamp Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Queen's Castle",
+                "sections": [
+                    {
+                        "name": "Hedge Left Red Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Hedge Right Blue Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Hedge Right Red Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Lotus Forest",
+                "sections": [
+                    {
+                        "name": "Thunder Plant Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Through the Painting Thunder Plant Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Glide Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Nut Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Corner Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Through the Painting White Trinity Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Tea Party",
+                "sections": [
+                    {
+                        "name": "Garden Above Lotus Forest Entrance 2nd Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Garden Above Lotus Forest Entrance 1st Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Garden Bear and Clock Puzzle Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Garden Across From Bizarre Room Entrance Chest",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Trickmaster",
+                "sections": [
+                    {
+                        "name": "Blizzard Event",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    },
+                    {
+                        "name": "Ifrit's Horn Event",
+                        "access_rules": [
+                            "wonderland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "wonderland",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "name": "Levels",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "Level 001",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 002",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 003",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 004",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 005",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 006",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 007",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 008",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 009",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 010",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 011",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 012",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 013",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 014",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 015",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 016",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 017",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 018",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 019",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 020",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 021",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 022",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 023",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 024",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 025",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 026",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 027",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 028",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 029",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 030",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 031",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 032",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 033",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 034",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 035",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 036",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 037",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 038",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 039",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 040",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 041",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 042",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 043",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 044",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 045",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 046",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 047",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 048",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 049",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 050",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 051",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 052",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 053",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 054",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 055",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 056",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 057",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 058",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 059",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 060",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 061",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 062",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 063",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 064",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 065",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 066",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 067",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 068",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 069",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 070",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 071",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 072",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 073",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 074",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 075",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 076",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 077",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 078",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 079",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 080",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 081",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 082",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 083",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 084",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 085",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 086",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 087",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 088",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 089",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 090",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 091",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 092",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 093",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 094",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 095",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 096",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 097",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 098",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 099",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    },
+                    {
+                        "name": "Level 100",
+                        "access_rules": [
+                            "levels"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "levels",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

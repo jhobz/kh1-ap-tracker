@@ -1,56 +1,554 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
     {
-        "name": "Toggle",
+        "name": "Victory",
         "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "toggle"
+        "codes": "victory"
     },
     {
-        "name": "Progressive",
-        "type": "progressive",
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_2",
-                "inherit_codes": false
-            }
-        ]
+        "name": "Jungle King",
+        "type": "toggle",
+        "codes": "jungleking"
     },
     {
-        "name": "Consumable",
+        "name": "Three Wishes",
+        "type": "toggle",
+        "codes": "threewishes"
+    },
+    {
+        "name": "Fairy Harp",
+        "type": "toggle",
+        "codes": "fairyharp"
+    },
+    {
+        "name": "Pumpkinhead",
+        "type": "toggle",
+        "codes": "pumpkinhead"
+    },
+    {
+        "name": "Crabclaw",
+        "type": "toggle",
+        "codes": "crabclaw"
+    },
+    {
+        "name": "Divine Rose",
+        "type": "toggle",
+        "codes": "divinerose"
+    },
+    {
+        "name": "Spellbinder",
+        "type": "toggle",
+        "codes": "spellbinder"
+    },
+    {
+        "name": "Olympia",
+        "type": "toggle",
+        "codes": "olympia"
+    },
+    {
+        "name": "Lionheart",
+        "type": "toggle",
+        "codes": "lionheart"
+    },
+    {
+        "name": "Metal Chocobo",
+        "type": "toggle",
+        "codes": "metalchocobo"
+    },
+    {
+        "name": "Oathkeeper",
+        "type": "toggle",
+        "codes": "oathkeeper"
+    },
+    {
+        "name": "Oblivion",
+        "type": "toggle",
+        "codes": "oblivion"
+    },
+    {
+        "name": "Lady Luck",
+        "type": "toggle",
+        "codes": "ladyluck"
+    },
+    {
+        "name": "Wishing Star",
+        "type": "toggle",
+        "codes": "wishingstar"
+    },
+    {
+        "name": "Ultima Weapon",
+        "type": "toggle",
+        "codes": "ultimaweapon"
+    },
+    {
+        "name": "Diamond Dust",
+        "type": "toggle",
+        "codes": "diamonddust"
+    },
+    {
+        "name": "One-Winged Angel",
+        "type": "toggle",
+        "codes": "one-wingedangel"
+    },
+    {
+        "name": "Emblem Piece (Flame)",
+        "type": "toggle",
+        "codes": "emblempiece(flame)"
+    },
+    {
+        "name": "Emblem Piece (Chest)",
+        "type": "toggle",
+        "codes": "emblempiece(chest)"
+    },
+    {
+        "name": "Emblem Piece (Statue)",
+        "type": "toggle",
+        "codes": "emblempiece(statue)"
+    },
+    {
+        "name": "Emblem Piece (Fountain)",
+        "type": "toggle",
+        "codes": "emblempiece(fountain)"
+    },
+    {
+        "name": "Postcard",
         "type": "consumable",
-        "img": "images/items/consumable.png",
-        "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_background": "#000000",
-        "overlay_font_size": 8,
-        "codes": "consumable"
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "postcard"
     },
     {
-        "name": "Progressive Toggle",
-        "type": "progressive_toggle",
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive_toggle",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_toggle_2",
-                "inherit_codes": false
-            }
-        ]
+        "name": "Slide 1",
+        "type": "toggle",
+        "codes": "slide1"
+    },
+    {
+        "name": "Footprints",
+        "type": "toggle",
+        "codes": "footprints"
+    },
+    {
+        "name": "Jack-In-The-Box",
+        "type": "toggle",
+        "codes": "jack-in-the-box"
+    },
+    {
+        "name": "High Jump",
+        "type": "toggle",
+        "codes": "highjump"
+    },
+    {
+        "name": "Mermaid Kick",
+        "type": "toggle",
+        "codes": "mermaidkick"
+    },
+    {
+        "name": "Glide",
+        "type": "toggle",
+        "codes": "glide"
+    },
+    {
+        "name": "Superglide",
+        "type": "toggle",
+        "codes": "superglide"
+    },
+    {
+        "name": "Treasure Magnet",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "codes": "treasuremagnet"
+    },
+    {
+        "name": "Combo Plus",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "codes": "comboplus"
+    },
+    {
+        "name": "Air Combo Plus",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "codes": "aircomboplus"
+    },
+    {
+        "name": "Critical Plus",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "criticalplus"
+    },
+    {
+        "name": "Scan",
+        "type": "toggle",
+        "codes": "scan"
+    },
+    {
+        "name": "Sonic Blade",
+        "type": "toggle",
+        "codes": "sonicblade"
+    },
+    {
+        "name": "Ars Arcanum",
+        "type": "toggle",
+        "codes": "arsarcanum"
+    },
+    {
+        "name": "Strike Raid",
+        "type": "toggle",
+        "codes": "strikeraid"
+    },
+    {
+        "name": "Ragnarok",
+        "type": "toggle",
+        "codes": "ragnarok"
+    },
+    {
+        "name": "Trinity Limit",
+        "type": "toggle",
+        "codes": "trinitylimit"
+    },
+    {
+        "name": "Cheer",
+        "type": "toggle",
+        "codes": "cheer"
+    },
+    {
+        "name": "Vortex",
+        "type": "toggle",
+        "codes": "vortex"
+    },
+    {
+        "name": "Aerial Sweep",
+        "type": "toggle",
+        "codes": "aerialsweep"
+    },
+    {
+        "name": "Counterattack",
+        "type": "toggle",
+        "codes": "counterattack"
+    },
+    {
+        "name": "Blitz",
+        "type": "toggle",
+        "codes": "blitz"
+    },
+    {
+        "name": "Guard",
+        "type": "toggle",
+        "codes": "guard"
+    },
+    {
+        "name": "Dodge Roll",
+        "type": "toggle",
+        "codes": "dodgeroll"
+    },
+    {
+        "name": "MP Haste",
+        "type": "toggle",
+        "codes": "mphaste"
+    },
+    {
+        "name": "MP Rage",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "codes": "mprage"
+    },
+    {
+        "name": "Second Chance",
+        "type": "toggle",
+        "codes": "secondchance"
+    },
+    {
+        "name": "Berserk",
+        "type": "toggle",
+        "codes": "berserk"
+    },
+    {
+        "name": "Jackpot",
+        "type": "toggle",
+        "codes": "jackpot"
+    },
+    {
+        "name": "Lucky Strike",
+        "type": "toggle",
+        "codes": "luckystrike"
+    },
+    {
+        "name": "Slapshot",
+        "type": "toggle",
+        "codes": "slapshot"
+    },
+    {
+        "name": "Sliding Dash",
+        "type": "toggle",
+        "codes": "slidingdash"
+    },
+    {
+        "name": "Hurricane Blast",
+        "type": "toggle",
+        "codes": "hurricaneblast"
+    },
+    {
+        "name": "Ripple Drive",
+        "type": "toggle",
+        "codes": "rippledrive"
+    },
+    {
+        "name": "Stun Impact",
+        "type": "toggle",
+        "codes": "stunimpact"
+    },
+    {
+        "name": "Gravity Break",
+        "type": "toggle",
+        "codes": "gravitybreak"
+    },
+    {
+        "name": "Zantetsuken",
+        "type": "toggle",
+        "codes": "zantetsuken"
+    },
+    {
+        "name": "Tech Boost",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "codes": "techboost"
+    },
+    {
+        "name": "Encounter Plus",
+        "type": "toggle",
+        "codes": "encounterplus"
+    },
+    {
+        "name": "Leaf Bracer",
+        "type": "toggle",
+        "codes": "leafbracer"
+    },
+    {
+        "name": "EXP Zero",
+        "type": "toggle",
+        "codes": "expzero"
+    },
+    {
+        "name": "Combo Master",
+        "type": "toggle",
+        "codes": "combomaster"
+    },
+    {
+        "name": "Max HP Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "maxhpincrease"
+    },
+    {
+        "name": "Max MP Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "maxmpincrease"
+    },
+    {
+        "name": "Max AP Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "maxapincrease"
+    },
+    {
+        "name": "Strength Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "strengthincrease"
+    },
+    {
+        "name": "Defense Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "defenseincrease"
+    },
+    {
+        "name": "Accessory Slot Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "accessoryslotincrease"
+    },
+    {
+        "name": "Item Slot Increase",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "codes": "itemslotincrease"
+    },
+    {
+        "name": "Dumbo",
+        "type": "toggle",
+        "codes": "dumbo"
+    },
+    {
+        "name": "Bambi",
+        "type": "toggle",
+        "codes": "bambi"
+    },
+    {
+        "name": "Genie",
+        "type": "toggle",
+        "codes": "genie"
+    },
+    {
+        "name": "Tinker Bell",
+        "type": "toggle",
+        "codes": "tinkerbell"
+    },
+    {
+        "name": "Mushu",
+        "type": "toggle",
+        "codes": "mushu"
+    },
+    {
+        "name": "Simba",
+        "type": "toggle",
+        "codes": "simba"
+    },
+    {
+        "name": "Progressive Fire",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressivefire,fire"
+    },
+    {
+        "name": "Progressive Blizzard",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressiveblizzard,blizzard"
+    },
+    {
+        "name": "Progressive Thunder",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressivethunder,thunder"
+    },
+    {
+        "name": "Progressive Cure",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressivecure,cure"
+    },
+    {
+        "name": "Progressive Gravity",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressivegravity,gravity"
+    },
+    {
+        "name": "Progressive Stop",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressivestop,stop"
+    },
+    {
+        "name": "Progressive Aero",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "codes": "progressiveaero,aero"
+    },
+    {
+        "name": "Wonderland",
+        "type": "toggle",
+        "codes": "wonderland,wl"
+    },
+    {
+        "name": "Olympus Coliseum",
+        "type": "toggle",
+        "codes": "olympuscoliseum,oc"
+    },
+    {
+        "name": "Deep Jungle",
+        "type": "toggle",
+        "codes": "deepjungle,dj"
+    },
+    {
+        "name": "Agrabah",
+        "type": "toggle",
+        "codes": "agrabah,ag"
+    },
+    {
+        "name": "Halloween Town",
+        "type": "toggle",
+        "codes": "halloweentown,ht"
+    },
+    {
+        "name": "Atlantica",
+        "type": "toggle",
+        "codes": "atlantica,at"
+    },
+    {
+        "name": "Neverland",
+        "type": "toggle",
+        "codes": "neverland,nl"
+    },
+    {
+        "name": "Hollow Bastion",
+        "type": "toggle",
+        "codes": "hollowbastion,hb"
+    },
+    {
+        "name": "Monstro",
+        "type": "toggle",
+        "codes": "monstro,mo"
+    },
+    {
+        "name": "Blue Trinity",
+        "type": "toggle",
+        "codes": "bluetrinity"
+    },
+    {
+        "name": "Red Trinity",
+        "type": "toggle",
+        "codes": "redtrinity"
+    },
+    {
+        "name": "Green Trinity",
+        "type": "toggle",
+        "codes": "greentrinity"
+    },
+    {
+        "name": "Yellow Trinity",
+        "type": "toggle",
+        "codes": "yellowtrinity"
+    },
+    {
+        "name": "White Trinity",
+        "type": "toggle",
+        "codes": "whitetrinity"
+    },
+    {
+        "name": "Phil Cup",
+        "type": "toggle",
+        "codes": "philcup"
+    },
+    {
+        "name": "Pegasus Cup",
+        "type": "toggle",
+        "codes": "pegasuscup"
+    },
+    {
+        "name": "Hercules Cup",
+        "type": "toggle",
+        "codes": "herculescup,herccup"
     }
 ]

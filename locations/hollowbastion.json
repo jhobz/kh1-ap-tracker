@@ -1,0 +1,505 @@
+[
+    {
+        "name": "Hollow Bastion",
+        "children": [
+            {
+                "name": "Rising Falls",
+                "sections": [
+                    {
+                        "name": "Water's Surface Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Under Water 1st Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Under Water 2nd Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Floating Platform Near Save Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Floating Platform Near Bubble Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "High Platform Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Castle Gates",
+                "sections": [
+                    {
+                        "name": "Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Freestanding Pillar Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "High Pillar Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Great Crest",
+                "sections": [
+                    {
+                        "name": "Lower Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "After Battle Platform Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "High Tower",
+                "sections": [
+                    {
+                        "name": "2nd Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "1st Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Above Sliding Gates Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Library",
+                "sections": [
+                    {
+                        "name": "Top of Bookshelf Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "1st Floor Turn the Carousel Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Top of Bookshelf Turn the Carousel Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "2nd Floor Turn the Carousel 1st Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "2nd Floor Turn the Carousel 2nd Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 2",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 4",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 6",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 10",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Lift Stop",
+                "sections": [
+                    {
+                        "name": "Library Node After High Tower Switch Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Library Node Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Under High Tower Sliding Blocks Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Outside Library Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Heartless Sigil Door Gravity Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Base Level",
+                "sections": [
+                    {
+                        "name": "Bubble Under the Wall Platform Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Platform Near Entrance Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Near Crystal Switch Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Waterway",
+                "sections": [
+                    {
+                        "name": "Near Save Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Blizzard on Bubble Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Unlock Passage from Base Level Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon",
+                "sections": [
+                    {
+                        "name": "By Candles Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Corner Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Grand Hall",
+                "sections": [
+                    {
+                        "name": "Steps Right Side Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Oblivion Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Left of Gate Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 450,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Hall",
+                "sections": [
+                    {
+                        "name": "Left of Emblem Door Chest",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 500,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Riku",
+                "sections": [
+                    {
+                        "name": "White Trinity Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 550,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Maleficent",
+                "sections": [
+                    {
+                        "name": "Donald Cheer Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 5",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 600,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Maleficent",
+                "sections": [
+                    {
+                        "name": "Fireglow Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 650,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Riku/Ansem",
+                "sections": [
+                    {
+                        "name": "Ragnarok Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 700,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Behemoth",
+                "sections": [
+                    {
+                        "name": "Omega Arts Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    },
+                    {
+                        "name": "Fire Event",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 750,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Unknown",
+                "sections": [
+                    {
+                        "name": "Ansem's Secret Report 13",
+                        "access_rules": [
+                            "hollowbastion"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "hollowbastion",
+                        "x": 800,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

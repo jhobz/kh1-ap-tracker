@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Olympus Coliseum",
+        "children": [
+            {
+                "name": "Coliseum Gates",
+                "sections": [
+                    {
+                        "name": "Left Behind Columns Chest",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Right Blue Trinity Chest",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Left Blue Trinity Chest",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Blizzara Chest",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Sonic Blade Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "olympuscoliseum",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Phil's Barrel Training",
+                "sections": [
+                    {
+                        "name": "Thunder Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "olympuscoliseum",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cups",
+                "sections": [
+                    {
+                        "name": "Ansem's Secret Report 8",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Phil Cup",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Phil Cup Solo",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Phil Cup Time Trial",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Pegasus Cup",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Pegasus Cup Solo",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Pegasus Cup Time Trial",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hercules Cup",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hercules Cup Solo",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hercules Cup Time Trial",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hades Cup",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hades Cup Solo",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Complete Hades Cup Time Trial",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hades Cup Defeat Cloud and Leon Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hades Cup Defeat Yuffie Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hades Cup Defeat Cerberus Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hades Cup Defeat Behemoth Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hades Cup Defeat Hades Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hercules Cup Defeat Cloud Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    },
+                    {
+                        "name": "Hercules Cup Yellow Trinity Event",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "olympuscoliseum",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Sephiroth",
+                "sections": [
+                    {
+                        "name": "Ansem's Secret Report 12",
+                        "access_rules": [
+                            "olympuscoliseum"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "olympuscoliseum",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.globals": [
+        "ScriptHost",
+        "Tracker",
+        "onClear",
+        "onItem",
+        "Archipelago",
+        "onLocation",
+        "onScout",
+        "onBounce",
+        "PopVersion",
+        "dump_table"
+    ]
+}

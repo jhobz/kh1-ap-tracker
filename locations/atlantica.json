@@ -1,0 +1,337 @@
+[
+    {
+        "name": "Atlantica",
+        "children": [
+            {
+                "name": "Sunken Ship",
+                "sections": [
+                    {
+                        "name": "In Flipped Boat Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Seabed Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Inside Ship Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Ariel's Grotto",
+                "sections": [
+                    {
+                        "name": "High Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Middle Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Low Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Ursula's Lair",
+                "sections": [
+                    {
+                        "name": "Use Fire on Urchin Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Undersea Gorge",
+                "sections": [
+                    {
+                        "name": "Jammed by Ariel's Grotto Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Blizzard Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Ocean Floor Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Triton's Palace",
+                "sections": [
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Thunder Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Wall Right Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Near Path Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Wall Left Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Ursula 1",
+                "sections": [
+                    {
+                        "name": "Mermaid Kick Event",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Ursula 2",
+                "sections": [
+                    {
+                        "name": "Thunder Event",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 3",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Seal the Keyhole",
+                "sections": [
+                    {
+                        "name": "Crabclaw Event",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Undersea Valley",
+                "sections": [
+                    {
+                        "name": "Higher Cave Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Lower Cave Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Fire Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Wall Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Pillar Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    },
+                    {
+                        "name": "Ocean Floor Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cavern Nook",
+                "sections": [
+                    {
+                        "name": "Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 450,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Below Deck",
+                "sections": [
+                    {
+                        "name": "Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 500,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Undersea Garden",
+                "sections": [
+                    {
+                        "name": "Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 550,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Undersea Cave",
+                "sections": [
+                    {
+                        "name": "Clam",
+                        "access_rules": [
+                            "atlantica"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "atlantica",
+                        "x": 600,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]
