@@ -28,9 +28,20 @@ Tracker:AddItems("items/items.json")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
-    Tracker:AddMaps("maps/maps.json")    
+    Tracker:AddMaps("maps/maps.json")
     -- Locations
-    Tracker:AddLocations("locations/locations.json")
+    Tracker:AddLocations("locations/agrabah.json")
+    Tracker:AddLocations("locations/atlantica.json")
+    Tracker:AddLocations("locations/deepjungle.json")
+    Tracker:AddLocations("locations/endoftheworld.json")
+    Tracker:AddLocations("locations/halloweentown.json")
+    Tracker:AddLocations("locations/hollowbastion.json")
+    Tracker:AddLocations("locations/levels.json")
+    Tracker:AddLocations("locations/monstro.json")
+    Tracker:AddLocations("locations/neverland.json")
+    Tracker:AddLocations("locations/olympuscoliseum.json")
+    Tracker:AddLocations("locations/traversetown.json")
+    Tracker:AddLocations("locations/wonderland.json")
 end
 
 -- Layout

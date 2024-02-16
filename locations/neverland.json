@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Neverland",
+        "children": [
+            {
+                "name": "Pirate Ship",
+                "sections": [
+                    {
+                        "name": "Deck White Trinity Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Crows Nest Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Hold",
+                "sections": [
+                    {
+                        "name": "Yellow Trinity Right Blue Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Yellow Trinity Left Blue Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Yellow Trinity Green Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Flight 1st Chest ",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Flight 2nd Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Galley",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cabin",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Clock",
+                "sections": [
+                    {
+                        "name": "Tower Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Captain's Cabin",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "AntiSora",
+                "sections": [
+                    {
+                        "name": "Raven's Claw Event",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Captain Hook",
+                "sections": [
+                    {
+                        "name": "Cure Event",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 9",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Seal the Keyhole",
+                "sections": [
+                    {
+                        "name": "Fairy Harp Event",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Tinker Bell Event",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    },
+                    {
+                        "name": "Glide Event",
+                        "access_rules": [
+                            "neverland"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "neverland",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

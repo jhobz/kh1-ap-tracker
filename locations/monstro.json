@@ -1,0 +1,229 @@
+[
+    {
+        "name": "Monstro",
+        "children": [
+            {
+                "name": "Chamber 6",
+                "sections": [
+                    {
+                        "name": "Other Platform Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Platform Near Chamber 5 Entrance Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Raised Area Near Chamber 1 Entrance Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Low Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Mouth",
+                "sections": [
+                    {
+                        "name": "Boat Deck Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "High Platform Boat Side Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "High Platform Across from Boat Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Near Ship Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Green Trinity Top of Boat Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "High Platform Near Teeth Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Chamber 2",
+                "sections": [
+                    {
+                        "name": "Ground Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Platform Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Chamber 5",
+                "sections": [
+                    {
+                        "name": "Platform Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Atop Barrel Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Low 2nd Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Low 1st Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Chamber 3",
+                "sections": [
+                    {
+                        "name": "Ground Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Platform Above Chamber 2 Entrance Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Near Chamber 6 Entrance Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    },
+                    {
+                        "name": "Platform Near Chamber 6 Entrance Chest",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Parasite Cage 1",
+                "sections": [
+                    {
+                        "name": "Goofy Cheer Event",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Parasite Cage 2",
+                "sections": [
+                    {
+                        "name": "Stop Event",
+                        "access_rules": [
+                            "monstro"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "monstro",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,738 @@
+{
+    "victory": [
+        {
+            "name": "Victory",
+            "code": "0000",
+            "type": "progression",
+            "tracker_type": "toggle",
+            "quantity": 1
+        }
+    ],
+    "keyblades": [
+        {
+            "name": "Jungle King",
+            "code": 1086,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Three Wishes",
+            "code": 1087,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Fairy Harp",
+            "code": 1088,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Pumpkinhead",
+            "code": 1089,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Crabclaw",
+            "code": 1090,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Divine Rose",
+            "code": 1091,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Spellbinder",
+            "code": 1092,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Olympia",
+            "code": 1093,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Lionheart",
+            "code": 1094,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Metal Chocobo",
+            "code": 1095,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Oathkeeper",
+            "code": 1096,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Oblivion",
+            "code": 1097,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Lady Luck",
+            "code": 1098,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Wishing Star",
+            "code": 1099,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Ultima Weapon",
+            "code": 1100,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Diamond Dust",
+            "code": 1101,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "One-Winged Angel",
+            "code": 1102,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "key_items": [
+        {
+            "name": "Emblem Piece (Flame)",
+            "code": 1188,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Emblem Piece (Chest)",
+            "code": 1189,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Emblem Piece (Statue)",
+            "code": 1190,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Emblem Piece (Fountain)",
+            "code": 1191,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Postcard",
+            "code": 1211,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Slide 1",
+            "code": 1217,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Footprints",
+            "code": 1223,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Jack-In-The-Box",
+            "code": 1228,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "shared_abilities": [
+        {
+            "name": "High Jump",
+            "code": 2001,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Mermaid Kick",
+            "code": 2002,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Glide",
+            "code": 2003,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Superglide",
+            "code": 2004,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "abilities": [
+        {
+            "name": "Treasure Magnet",
+            "code": 3005,
+            "type": "useful",
+            "quantity": 2,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Combo Plus",
+            "code": 3006,
+            "type": "useful",
+            "quantity": 4,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Air Combo Plus",
+            "code": 3007,
+            "type": "useful",
+            "quantity": 2,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Critical Plus",
+            "code": 3008,
+            "type": "useful",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Scan",
+            "code": 3010,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Sonic Blade",
+            "code": 3011,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Ars Arcanum",
+            "code": 3012,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Strike Raid",
+            "code": 3013,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Ragnarok",
+            "code": 3014,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Trinity Limit",
+            "code": 3015,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Cheer",
+            "code": 3016,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Vortex",
+            "code": 3017,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Aerial Sweep",
+            "code": 3018,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Counterattack",
+            "code": 3019,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Blitz",
+            "code": 3020,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Guard",
+            "code": 3021,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Dodge Roll",
+            "code": 3022,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "MP Haste",
+            "code": 3023,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "MP Rage",
+            "code": 3024,
+            "type": "useful",
+            "quantity": 2,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Second Chance",
+            "code": 3025,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Berserk",
+            "code": 3026,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Jackpot",
+            "code": 3027,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Lucky Strike",
+            "code": 3028,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Slapshot",
+            "code": 3053,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Sliding Dash",
+            "code": 3054,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Hurricane Blast",
+            "code": 3055,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Ripple Drive",
+            "code": 3056,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Stun Impact",
+            "code": 3057,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Gravity Break",
+            "code": 3058,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Zantetsuken",
+            "code": 3059,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Tech Boost",
+            "code": 3060,
+            "type": "useful",
+            "quantity": 4,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Encounter Plus",
+            "code": 3061,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Leaf Bracer",
+            "code": 3062,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "EXP Zero",
+            "code": 3064,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Combo Master",
+            "code": 3065,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "level_ups": [
+        {
+            "name": "Max HP Increase",
+            "code": 4001,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Max MP Increase",
+            "code": 4002,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Max AP Increase",
+            "code": 4003,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Strength Increase",
+            "code": 4004,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Defense Increase",
+            "code": 4005,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Accessory Slot Increase",
+            "code": 4006,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Item Slot Increase",
+            "code": 4007,
+            "type": "useful",
+            "quantity": 15,
+            "tracker_type": "consumable"
+        }
+    ],
+    "summons": [
+        {
+            "name": "Dumbo",
+            "code": 5000,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Bambi",
+            "code": 5001,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Genie",
+            "code": 5002,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Tinker Bell",
+            "code": 5003,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Mushu",
+            "code": 5004,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Simba",
+            "code": 5005,
+            "type": "useful",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "magic": [
+        {
+            "name": "Progressive Fire",
+            "code": 6001,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Blizzard",
+            "code": 6002,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Thunder",
+            "code": 6003,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Cure",
+            "code": 6004,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Gravity",
+            "code": 6005,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Stop",
+            "code": 6006,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        },
+        {
+            "name": "Progressive Aero",
+            "code": 6007,
+            "type": "progression",
+            "quantity": 3,
+            "tracker_type": "consumable"
+        }
+    ],
+    "worlds": [
+        {
+            "name": "Wonderland",
+            "code": 7002,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Olympus Coliseum",
+            "code": 7003,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Deep Jungle",
+            "code": 7004,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Agrabah",
+            "code": 7005,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Halloween Town",
+            "code": 7006,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Atlantica",
+            "code": 7007,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Neverland",
+            "code": 7008,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Hollow Bastion",
+            "code": 7009,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Monstro",
+            "code": 7011,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "trinities": [
+        {
+            "name": "Blue Trinity",
+            "code": 8001,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Red Trinity",
+            "code": 8002,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Green Trinity",
+            "code": 8003,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Yellow Trinity",
+            "code": 8004,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "White Trinity",
+            "code": 8005,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ],
+    "cups": [
+        {
+            "name": "Phil Cup",
+            "code": 9001,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Pegasus Cup",
+            "code": 9002,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        },
+        {
+            "name": "Hercules Cup",
+            "code": 9003,
+            "type": "progression",
+            "quantity": 1,
+            "tracker_type": "toggle"
+        }
+    ]
+}

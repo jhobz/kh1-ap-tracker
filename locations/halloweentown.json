@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Halloween Town",
+        "children": [
+            {
+                "name": "Moonlight Hill",
+                "sections": [
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Bridge",
+                "sections": [
+                    {
+                        "name": "Under Bridge",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Right of Gate Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Left of Gate Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Boneyard",
+                "sections": [
+                    {
+                        "name": "Tombstone Puzzle Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Cemetary",
+                "sections": [
+                    {
+                        "name": "Behind Grave Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "By Cat Shape Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Between Graves Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "By Striped Grave Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Oogie's Manor",
+                "sections": [
+                    {
+                        "name": "Lower Iron Cage Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Upper Iron Cage Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Hollow Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Grounds Red Trinity Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Entrance Steps Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Inside Entrance Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Guillotine Square",
+                "sections": [
+                    {
+                        "name": "High Tower Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Structure Left Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Under Jack's House Stairs Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Structure Right Chest",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Oogie Boogie",
+                "sections": [
+                    {
+                        "name": "Holy Circlet Event",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Ansem's Secret Report 7",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Boss Oogie's Manor",
+                "sections": [
+                    {
+                        "name": "Gravity Event",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    },
+                    {
+                        "name": "Pumpkinhead Event",
+                        "access_rules": [
+                            "halloweentown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "halloweentown",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

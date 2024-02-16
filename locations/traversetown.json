@@ -1,0 +1,385 @@
+[
+    {
+        "name": "Traverse Town",
+        "children": [
+            {
+                "name": "1st District",
+                "sections": [
+                    {
+                        "name": "Candle Puzzle Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Accessory Shop Roof Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Blue Trinity Balcony Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 0,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "2nd District",
+                "sections": [
+                    {
+                        "name": "Boots and Shoes Awning Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Rooftop Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Gizmo Shop Facade Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 50,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Alleyway",
+                "sections": [
+                    {
+                        "name": "Balcony Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Blue Room Awning Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Corner Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Behind Crates Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 100,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Green Room",
+                "sections": [
+                    {
+                        "name": "Clock Puzzle Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Table Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 150,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Red Room",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 200,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Mystical House",
+                "sections": [
+                    {
+                        "name": "Yellow Trinity Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Glide Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 250,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Accessory Shop",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 300,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Secret Waterway",
+                "sections": [
+                    {
+                        "name": "White Trinity Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Near Stairs Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Earthshine Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Oathkeeper Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 350,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Geppetto's House",
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 400,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Item Workshop",
+                "sections": [
+                    {
+                        "name": "Right Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Left Chest",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 450,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Guard Armor",
+                "sections": [
+                    {
+                        "name": "Dodge Roll Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Fire Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Blue Trinity Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 500,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Mailbox",
+                "sections": [
+                    {
+                        "name": "Mail Postcard 01 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 02 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 03 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 04 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 05 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 06 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 07 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 08 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 09 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    },
+                    {
+                        "name": "Mail Postcard 10 Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 550,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Opposite Armor",
+                "sections": [
+                    {
+                        "name": "Aero Event",
+                        "access_rules": [
+                            "traversetown"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "traversetown",
+                        "x": 600,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]
