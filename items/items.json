@@ -7,111 +7,133 @@
     {
         "name": "Jungle King",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "jungleking"
     },
     {
         "name": "Three Wishes",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "threewishes"
     },
     {
         "name": "Fairy Harp",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "fairyharp"
     },
     {
         "name": "Pumpkinhead",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "pumpkinhead"
     },
     {
         "name": "Crabclaw",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "crabclaw"
     },
     {
         "name": "Divine Rose",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "divinerose"
     },
     {
         "name": "Spellbinder",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "spellbinder"
     },
     {
         "name": "Olympia",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "olympia"
     },
     {
         "name": "Lionheart",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "lionheart"
     },
     {
         "name": "Metal Chocobo",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "metalchocobo"
     },
     {
         "name": "Oathkeeper",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "oathkeeper"
     },
     {
         "name": "Oblivion",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "oblivion"
     },
     {
         "name": "Lady Luck",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "ladyluck"
     },
     {
         "name": "Wishing Star",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "wishingstar"
     },
     {
         "name": "Ultima Weapon",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "ultimaweapon"
     },
     {
         "name": "Diamond Dust",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "diamonddust"
     },
     {
         "name": "One-Winged Angel",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "one-wingedangel"
     },
     {
         "name": "Emblem Piece (Flame)",
         "type": "toggle",
+        "img": "/images/items/Emblem Blue.png",
         "codes": "emblempiece(flame)"
     },
     {
         "name": "Emblem Piece (Chest)",
         "type": "toggle",
+        "img": "/images/items/Emblem Green.png",
         "codes": "emblempiece(chest)"
     },
     {
         "name": "Emblem Piece (Statue)",
         "type": "toggle",
+        "img": "/images/items/Emblem Pink.png",
         "codes": "emblempiece(statue)"
     },
     {
         "name": "Emblem Piece (Fountain)",
         "type": "toggle",
+        "img": "/images/items/Emblem Red.png",
         "codes": "emblempiece(fountain)"
     },
     {
         "name": "Postcard",
         "type": "consumable",
+        "img": "/images/items/Postcards.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "postcard"
@@ -119,41 +141,49 @@
     {
         "name": "Slide 1",
         "type": "toggle",
+        "img": "/images/items/Slides.png",
         "codes": "slide1"
     },
     {
         "name": "Footprints",
         "type": "toggle",
+        "img": "/images/items/Evidence.png",
         "codes": "footprints"
     },
     {
         "name": "Jack-In-The-Box",
         "type": "toggle",
+        "img": "/images/items/Jack in the Box.png",
         "codes": "jack-in-the-box"
     },
     {
         "name": "High Jump",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "highjump"
     },
     {
         "name": "Mermaid Kick",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "mermaidkick"
     },
     {
         "name": "Glide",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "glide"
     },
     {
         "name": "Superglide",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "superglide"
     },
     {
         "name": "Treasure Magnet",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 2,
         "codes": "treasuremagnet"
@@ -161,6 +191,7 @@
     {
         "name": "Combo Plus",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 4,
         "codes": "comboplus"
@@ -168,6 +199,7 @@
     {
         "name": "Air Combo Plus",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 2,
         "codes": "aircomboplus"
@@ -175,6 +207,7 @@
     {
         "name": "Critical Plus",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "criticalplus"
@@ -182,76 +215,91 @@
     {
         "name": "Scan",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "scan"
     },
     {
         "name": "Sonic Blade",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "sonicblade"
     },
     {
         "name": "Ars Arcanum",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "arsarcanum"
     },
     {
         "name": "Strike Raid",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "strikeraid"
     },
     {
         "name": "Ragnarok",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "ragnarok"
     },
     {
         "name": "Trinity Limit",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "trinitylimit"
     },
     {
         "name": "Cheer",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "cheer"
     },
     {
         "name": "Vortex",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "vortex"
     },
     {
         "name": "Aerial Sweep",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "aerialsweep"
     },
     {
         "name": "Counterattack",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "counterattack"
     },
     {
         "name": "Blitz",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "blitz"
     },
     {
         "name": "Guard",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "guard"
     },
     {
         "name": "Dodge Roll",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "dodgeroll"
     },
     {
         "name": "MP Haste",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "mphaste"
     },
     {
         "name": "MP Rage",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 2,
         "codes": "mprage"
@@ -259,61 +307,73 @@
     {
         "name": "Second Chance",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "secondchance"
     },
     {
         "name": "Berserk",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "berserk"
     },
     {
         "name": "Jackpot",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "jackpot"
     },
     {
         "name": "Lucky Strike",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "luckystrike"
     },
     {
         "name": "Slapshot",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "slapshot"
     },
     {
         "name": "Sliding Dash",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "slidingdash"
     },
     {
         "name": "Hurricane Blast",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "hurricaneblast"
     },
     {
         "name": "Ripple Drive",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "rippledrive"
     },
     {
         "name": "Stun Impact",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "stunimpact"
     },
     {
         "name": "Gravity Break",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "gravitybreak"
     },
     {
         "name": "Zantetsuken",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "zantetsuken"
     },
     {
         "name": "Tech Boost",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 4,
         "codes": "techboost"
@@ -321,26 +381,31 @@
     {
         "name": "Encounter Plus",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "encounterplus"
     },
     {
         "name": "Leaf Bracer",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "leafbracer"
     },
     {
         "name": "EXP Zero",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "expzero"
     },
     {
         "name": "Combo Master",
         "type": "toggle",
+        "img": "/images/items/Coconuts.png",
         "codes": "combomaster"
     },
     {
         "name": "Max HP Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "maxhpincrease"
@@ -348,6 +413,7 @@
     {
         "name": "Max MP Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "maxmpincrease"
@@ -355,6 +421,7 @@
     {
         "name": "Max AP Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "maxapincrease"
@@ -362,6 +429,7 @@
     {
         "name": "Strength Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "strengthincrease"
@@ -369,6 +437,7 @@
     {
         "name": "Defense Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "defenseincrease"
@@ -376,6 +445,7 @@
     {
         "name": "Accessory Slot Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "accessoryslotincrease"
@@ -383,6 +453,7 @@
     {
         "name": "Item Slot Increase",
         "type": "consumable",
+        "img": "/images/items/Coconuts.png",
         "min_quantity": 0,
         "max_quantity": 15,
         "codes": "itemslotincrease"
@@ -390,36 +461,43 @@
     {
         "name": "Dumbo",
         "type": "toggle",
+        "img": "/images/summons/Dumbo Summon.png",
         "codes": "dumbo"
     },
     {
         "name": "Bambi",
         "type": "toggle",
+        "img": "/images/summons/Bambi Summon.png",
         "codes": "bambi"
     },
     {
         "name": "Genie",
         "type": "toggle",
+        "img": "/images/summons/Genie Summon.png",
         "codes": "genie"
     },
     {
         "name": "Tinker Bell",
         "type": "toggle",
+        "img": "/images/summons/Tinkerbell Summon.png",
         "codes": "tinkerbell"
     },
     {
         "name": "Mushu",
         "type": "toggle",
+        "img": "/images/summons/Mushu Summon.png",
         "codes": "mushu"
     },
     {
         "name": "Simba",
         "type": "toggle",
+        "img": "/images/items/Simba Summon.png",
         "codes": "simba"
     },
     {
         "name": "Progressive Fire",
         "type": "consumable",
+        "img": "/images/magics/Fire Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressivefire,fire"
@@ -427,6 +505,7 @@
     {
         "name": "Progressive Blizzard",
         "type": "consumable",
+        "img": "/images/magics/Blizzard Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressiveblizzard,blizzard"
@@ -434,6 +513,7 @@
     {
         "name": "Progressive Thunder",
         "type": "consumable",
+        "img": "/images/magics/Thunder Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressivethunder,thunder"
@@ -441,6 +521,7 @@
     {
         "name": "Progressive Cure",
         "type": "consumable",
+        "img": "/images/magics/Cure Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressivecure,cure"
@@ -448,6 +529,7 @@
     {
         "name": "Progressive Gravity",
         "type": "consumable",
+        "img": "/images/magics/Gravity Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressivegravity,gravity"
@@ -455,6 +537,7 @@
     {
         "name": "Progressive Stop",
         "type": "consumable",
+        "img": "/images/magics/Stop Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressivestop,stop"
@@ -462,6 +545,7 @@
     {
         "name": "Progressive Aero",
         "type": "consumable",
+        "img": "/images/magics/Aero Magic.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "codes": "progressiveaero,aero"
@@ -469,86 +553,103 @@
     {
         "name": "Wonderland",
         "type": "toggle",
+        "img": "/images/worlds/Wonderland.png",
         "codes": "wonderland,wl"
     },
     {
         "name": "Olympus Coliseum",
         "type": "toggle",
+        "img": "/images/worlds/Olympus Coliseum KH1.png",
         "codes": "olympuscoliseum,oc"
     },
     {
         "name": "Deep Jungle",
         "type": "toggle",
+        "img": "/images/worlds/Deep Jungle.png",
         "codes": "deepjungle,dj"
     },
     {
         "name": "Agrabah",
         "type": "toggle",
+        "img": "/images/worlds/Agrabah.png",
         "codes": "agrabah,ag"
     },
     {
         "name": "Halloween Town",
         "type": "toggle",
+        "img": "/images/worlds/Halloween Town.png",
         "codes": "halloweentown,ht"
     },
     {
         "name": "Atlantica",
         "type": "toggle",
+        "img": "/images/worlds/Atlantica KH1.png",
         "codes": "atlantica,at"
     },
     {
         "name": "Neverland",
         "type": "toggle",
+        "img": "/images/worlds/Neverland KH1.png",
         "codes": "neverland,nl"
     },
     {
         "name": "Hollow Bastion",
         "type": "toggle",
+        "img": "/images/worlds/Hollow Bastion.png",
         "codes": "hollowbastion,hb"
     },
     {
         "name": "Monstro",
         "type": "toggle",
+        "img": "/images/worlds/Monstro.png",
         "codes": "monstro,mo"
     },
     {
         "name": "Blue Trinity",
         "type": "toggle",
+        "img": "/images/items/Blue Trinity.png",
         "codes": "bluetrinity"
     },
     {
         "name": "Red Trinity",
         "type": "toggle",
+        "img": "/images/items/Red Trinity.png",
         "codes": "redtrinity"
     },
     {
         "name": "Green Trinity",
         "type": "toggle",
+        "img": "/images/items/Green Trinity.png",
         "codes": "greentrinity"
     },
     {
         "name": "Yellow Trinity",
         "type": "toggle",
+        "img": "/images/items/Yellow Trinity.png",
         "codes": "yellowtrinity"
     },
     {
         "name": "White Trinity",
         "type": "toggle",
+        "img": "/images/items/White Trinity.png",
         "codes": "whitetrinity"
     },
     {
         "name": "Phil Cup",
         "type": "toggle",
+        "img": "/images/items/Olympus Cups.png",
         "codes": "philcup"
     },
     {
         "name": "Pegasus Cup",
         "type": "toggle",
+        "img": "/images/items/Olympus Cups.png",
         "codes": "pegasuscup"
     },
     {
         "name": "Hercules Cup",
         "type": "toggle",
+        "img": "/images/items/Olympus Cups.png",
         "codes": "herculescup,herccup"
     }
 ]
