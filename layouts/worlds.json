@@ -1,0 +1,124 @@
+{
+    "tt_split_layout": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "map",
+                "maps": [
+                    "tt"
+                ]
+            },
+            {
+                "type": "tabbed",
+                "dock": "right",
+                "tabs": [
+                    {
+                        "title": "Districts",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d1",
+                                "tt-d2",
+                                "tt-d3"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "1st District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d1",
+                                "tt-acc",
+                                "tt-synth",
+                                "tt-item",
+                                "tt-geppetto"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "2nd District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d2",
+                                "tt-alley",
+                                "tt-hotel",
+                                "tt-rr",
+                                "tt-gr",
+                                "tt-gizmo",
+                                "tt-dalmations"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "3rd District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d3",
+                                "tt-mystical",
+                                "tt-merlin",
+                                "tt-waterway"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "wl_split_layout": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "map",
+                "maps": [
+                    "tt"
+                ]
+            },
+            {
+                "type": "tabbed",
+                "dock": "right",
+                "tabs": [
+                    {
+                        "title": "Main Rooms",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-rh",
+                                "wl-bzmain",
+                                "wl-qc",
+                                "wl-lfmain",
+                                "wl-tpg",
+                                "wl-udr"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Bizarre Room",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-bzmain",
+                                "wl-bzfuside",
+                                "wl-bzpicside",
+                                "wl-udr"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Lotus Forest",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-lfmain",
+                                "wl-lfbluetrinity",
+                                "wl-lfwhitetrinity"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

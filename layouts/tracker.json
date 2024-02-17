@@ -54,21 +54,17 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Map 1",
+                            "title": "Traverse Town",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "map1"
-                                ]
+                                "type": "layout",
+                                "key": "tt_split_layout"
                             }
                         },
                         {
-                            "title": "Map 2",
+                            "title": "Wonderland",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "map2"
-                                ]
+                                "type": "layout",
+                                "key": "wl_split_layout"
                             }
                         }
                     ]
