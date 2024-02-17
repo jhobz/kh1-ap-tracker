@@ -132,10 +132,11 @@
                         "item_size": 4,
                         "rows": [
                             [
-                                "emblempiece(flame)",
-                                "emblempiece(chest)",
-                                "emblempiece(statue)",
-                                "emblempiece(fountain)",
+                                // "emblempiece(flame)",
+                                // "emblempiece(chest)",
+                                // "emblempiece(statue)",
+                                // "emblempiece(fountain)",
+                                "emblempieces",
                                 "postcard",
                                 "slide1",
                                 "footprints",
