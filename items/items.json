@@ -491,7 +491,7 @@
     {
         "name": "Simba",
         "type": "toggle",
-        "img": "/images/items/Simba Summon.png",
+        "img": "/images/summons/Simba Summon.png",
         "codes": "simba"
     },
     {
