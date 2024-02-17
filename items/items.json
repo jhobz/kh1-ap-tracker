@@ -131,6 +131,14 @@
         "codes": "emblempiece(fountain)"
     },
     {
+        "name": "Emblem Pieces",
+        "type": "consumable",
+        "img": "/images/items/Emblem Pieces.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "codes": "emblempiece(flame),emblempiece(chest),emblempiece(statue),emblempiece(fountain),emblempieces"
+    },
+    {
         "name": "Postcard",
         "type": "consumable",
         "img": "/images/items/Postcards.png",
@@ -491,7 +499,7 @@
     {
         "name": "Simba",
         "type": "toggle",
-        "img": "/images/items/Simba Summon.png",
+        "img": "/images/summons/Simba Summon.png",
         "codes": "simba"
     },
     {
