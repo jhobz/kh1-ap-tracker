@@ -22,6 +22,46 @@
                                 "tt-d3"
                             ]
                         }
+                    },
+                    {
+                        "title": "1st District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d1",
+                                "tt-acc",
+                                "tt-synth",
+                                "tt-item",
+                                "tt-geppetto"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "2nd District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d2",
+                                "tt-alley",
+                                "tt-hotel",
+                                "tt-rr",
+                                "tt-gr",
+                                "tt-gizmo",
+                                "tt-dalmations"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "3rd District",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d3",
+                                "tt-mystical",
+                                "tt-merlin",
+                                "tt-waterway"
+                            ]
+                        }
                     }
                 ]
             }

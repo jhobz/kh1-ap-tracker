@@ -24,6 +24,84 @@
         "img": "images/maps/Traverse Town/District 3.png"
     },
     {
+        "name": "tt-acc",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Accessory Shop.png"
+    },
+    {
+        "name": "tt-synth",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Synthesis Shop.png"
+    },
+    {
+        "name": "tt-item",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Item Shop.png"
+    },
+    {
+        "name": "tt-geppetto",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Gepettos House.png"
+    },
+    {
+        "name": "tt-alley",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Alleyway.png"
+    },
+    {
+        "name": "tt-hotel",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Hotel Hallway.png"
+    },
+    {
+        "name": "tt-rr",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Red Room.png"
+    },
+    {
+        "name": "tt-gr",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Green Room.png"
+    },
+    {
+        "name": "tt-gizmo",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Gizmo Shop.png"
+    },
+    {
+        "name": "tt-dalmations",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Dalmatian House.png"
+    },
+    {
+        "name": "tt-mystical",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Mystical House.png"
+    },
+    {
+        "name": "tt-merlin",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Magicians Study.png"
+    },
+    {
+        "name": "tt-waterway",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/Waterway.png"
+    },
+    {
         "name": "wl-bzmain",
         "location_size": 48,
         "location_border_thickness": 4,
