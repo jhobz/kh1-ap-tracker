@@ -1,0 +1,84 @@
+{
+    "tt_split_layout": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "map",
+                "maps": [
+                    "tt"
+                ]
+            },
+            {
+                "type": "tabbed",
+                "dock": "right",
+                "tabs": [
+                    {
+                        "title": "Districts",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "tt-d1",
+                                "tt-d2",
+                                "tt-d3"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "wl_split_layout": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "map",
+                "maps": [
+                    "tt"
+                ]
+            },
+            {
+                "type": "tabbed",
+                "dock": "right",
+                "tabs": [
+                    {
+                        "title": "Main Rooms",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-rh",
+                                "wl-bzmain",
+                                "wl-qc",
+                                "wl-lfmain",
+                                "wl-tpg",
+                                "wl-udr"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Bizarre Room",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-bzmain",
+                                "wl-bzfuside",
+                                "wl-bzpicside",
+                                "wl-udr"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Lotus Forest",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wl-lfmain",
+                                "wl-lfbluetrinity",
+                                "wl-lfwhitetrinity"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
