@@ -54,20 +54,81 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Map 1",
+                            "title": "Traverse Town",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "map1"
+                                "type": "dock",
+                                "content": [
+                                    {
+                                        "type": "map",
+                                        "h_alignment": "left",
+                                        // "dock": "left",
+                                        "maps": [
+                                            "tt"
+                                        ]
+                                    },
+                                    {
+                                        "type": "tabbed",
+                                        "dock": "right",
+                                        "h_alignment": "right",
+                                        "tabs": [
+                                            {
+                                                "title": "Districts",
+                                                "content": {
+                                                    "type": "map",
+                                                    "maps": [
+                                                        "tt-d1",
+                                                        "tt-d2",
+                                                        "tt-d3"
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
                                 ]
                             }
                         },
                         {
-                            "title": "Map 2",
+                            "title": "Wonderland",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "map2"
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Main Rooms",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "wl-rh",
+                                                "wl-bzmain",
+                                                "wl-qc",
+                                                "wl-lfmain",
+                                                "wl-tpg",
+                                                "wl-udr"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Bizarre Room",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "wl-bzmain",
+                                                "wl-bzfuside",
+                                                "wl-bzpicside",
+                                                "wl-udr"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Lotus Forest",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "wl-lfmain",
+                                                "wl-lfbluetrinity",
+                                                "wl-lfwhitetrinity"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         }

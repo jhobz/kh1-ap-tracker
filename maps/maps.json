@@ -1,15 +1,86 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
 [
     {
-        "name": "map1",
+        "name": "tt",
         "location_size": 48,
         "location_border_thickness": 4,
-        "img": "images/maps/map.png"
+        "img": "images/maps/Traverse Town/full map.png"
     },
     {
-        "name": "map2",
+        "name": "tt-d1",
         "location_size": 48,
         "location_border_thickness": 4,
-        "img": "images/maps/map_2.png"
+        "img": "images/maps/Traverse Town/District 1.png"
+    },
+    {
+        "name": "tt-d2",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/District 2.png"
+    },
+    {
+        "name": "tt-d3",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Traverse Town/District 3.png"
+    },
+    {
+        "name": "wl-bzmain",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Bizarre Room - Main.png"
+    },
+    {
+        "name": "wl-bzfuside",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Bizarre Room - Furnace Side.png"
+    },
+    {
+        "name": "wl-bzpicside",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Bizarre Room - Picture Side.png"
+    },
+    {
+        "name": "wl-lfmain",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Lotus Forest - Main Room.png"
+    },
+    {
+        "name": "wl-lfbluetrinity",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Lotus Forest - Blue Trinity Room.png"
+    },
+    {
+        "name": "wl-lfwhitetrinity",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Lotus Forest - White Trinity Room.png"
+    },
+    {
+        "name": "wl-qc",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Queens Court Room.png"
+    },
+    {
+        "name": "wl-rh",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Rabbit Hole.png"
+    },
+    {
+        "name": "wl-tpg",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Tea Party Garden.png"
+    },
+    {
+        "name": "wl-udr",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Wonderland/Upside Down Room.png"
     }
 ]
