@@ -1,17 +1,36 @@
 {
+    "world_grid": {
+        "type": "itemgrid",
+        "item_size": 64,
+        "item_margin": "5, 5",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "wl",
+                "oc",
+                "dj",
+                "ag",
+                "mo",
+                "ht",
+                "at",
+                "nl",
+                "hb"
+            ]
+        ]
+    },
     "key_item_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
-            { // Cups
+            {
                 "type": "array",
                 "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "5, 0",
+                        "item_margin": "3, 3",
                         "h_alignment": "left",
                         "item_size": 4,
                         "rows": [
@@ -19,154 +38,20 @@
                                 "philcup",
                                 "pegasuscup",
                                 "herccup"
-                            ]
-                        ]
-                    }
-                ]
-            },
-            // { // Abilities
-            //     "type": "array",
-            //     "orientation": "horizontal",
-            //     "margin": "0,0",
-            //     "content": [
-            //         {
-            //             "type": "itemgrid",
-            //             "item_margin": "10, 10",
-            //             "h_alignment": "left",
-            //             "rows": [
-            //                 [
-            //                     "treasuremagnet",
-            //                     "comboplus",
-            //                     "aircomboplus",
-            //                     "criticalplus",
-            //                     "scan",
-            //                     "sonicblade",
-            //                     "arsarcanum",
-            //                     "strikeraid",
-            //                     "ragnarok",
-            //                     "trinitylimit",
-            //                     "cheer",
-            //                     "vortex",
-            //                     "aerialsweep",
-            //                     "counterattack",
-            //                     "blitz",
-            //                     "guard",
-            //                     "dodgeroll",
-            //                     "mphaste",
-            //                     "mprage",
-            //                     "secondchance",
-            //                     "berserk",
-            //                     "jackpot",
-            //                     "luckystrike",
-            //                     "slapshot",
-            //                     "slidingdash",
-            //                     "hurricaneblast",
-            //                     "rippledrive",
-            //                     "stunimpact",
-            //                     "gravitybreak",
-            //                     "zantetsuken",
-            //                     "techboost",
-            //                     "encounterplus",
-            //                     "leafbracer",
-            //                     "expzero",
-            //                     "combomaster"
-            //                 ]
-            //             ]
-            //         }
-            //     ]
-            // },
-            // { // Level Ups
-            //     "type": "array",
-            //     "orientation": "horizontal",
-            //     "margin": "0,0",
-            //     "content": [
-            //         {
-            //             "type": "itemgrid",
-            //             "item_margin": "10, 10",
-            //             "h_alignment": "left",
-            //             "rows": [
-            //                 [
-            //                     "maxhpincrease",
-            //                     "maxmpincrease",
-            //                     "maxapincrease",
-            //                     "strengthincrease",
-            //                     "defenseincrease",
-            //                     "accessoryslotincrease",
-            //                     "itemslotincrease"
-            //                 ]
-            //             ]
-            //         }
-            //     ]
-            // },
-            { // Trinities
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "5, 0",
-                        "h_alignment": "left",
-                        "item_size": 4,
-                        "rows": [
+                            ],
                             [
                                 "bluetrinity",
                                 "redtrinity",
                                 "greentrinity",
                                 "yellowtrinity",
                                 "whitetrinity"
-                            ]
-                        ]
-                    }
-                ]
-            },
-            { // Key Items
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "5, 0",
-                        "h_alignment": "left",
-                        "item_size": 4,
-                        "rows": [
+                            ],
                             [
-                                // "emblempiece(flame)",
-                                // "emblempiece(chest)",
-                                // "emblempiece(statue)",
-                                // "emblempiece(fountain)",
                                 "emblempieces",
                                 "postcard",
                                 "slide1",
                                 "footprints",
                                 "jack-in-the-box"
-                            ]
-                        ]
-                    }
-                ]
-            },
-            { // Worlds
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "5, 0",
-                        "h_alignment": "left",
-                        "item_size": 4,
-                        "rows": [
-                            [
-                                "wl",
-                                "oc",
-                                "dj",
-                                "ag",
-                                "mo",
-                                "ht",
-                                "at",
-                                "nl",
-                                "hb"
                             ]
                         ]
                     }
@@ -179,14 +64,14 @@
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
-            { // Shared Abilities
+            {
                 "type": "array",
                 "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "5, 0",
+                        "item_margin": "3, 3",
                         "h_alignment": "left",
                         "item_size": 4,
                         "rows": [
@@ -195,22 +80,7 @@
                                 "mermaidkick",
                                 "glide",
                                 "superglide"
-                            ]
-                        ]
-                    }
-                ]
-            },
-            { // Summons
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "5, 0",
-                        "h_alignment": "left",
-                        "item_size": 4,
-                        "rows": [
+                            ],
                             [
                                 "dumbo",
                                 "bambi",
@@ -218,22 +88,7 @@
                                 "tinkerbell",
                                 "mushu",
                                 "simba"
-                            ]
-                        ]
-                    }
-                ]
-            },
-            { // Magic
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "5, 0",
-                        "h_alignment": "left",
-                        "item_size": 4,
-                        "rows": [
+                            ],
                             [
                                 "fire",
                                 "blizzard",
@@ -247,39 +102,6 @@
                     }
                 ]
             }
-            // { // Keyblades
-            //     "type": "array",
-            //     "orientation": "horizontal",
-            //     "margin": "0,0",
-            //     "content": [
-            //         {
-            //             "type": "itemgrid",
-            //             "item_margin": "10, 10",
-            //             "h_alignment": "left",
-            //             "rows": [
-            //                 [
-            //                     "jungleking",
-            //                     "threewishes",
-            //                     "fairyharp",
-            //                     "pumpkinhead",
-            //                     "crabclaw",
-            //                     "divinerose",
-            //                     "spellbinder",
-            //                     "olympia",
-            //                     "lionheart",
-            //                     "metalchocobo",
-            //                     "oathkeeper",
-            //                     "oblivion",
-            //                     "ladyluck",
-            //                     "wishingstar",
-            //                     "ultimaweapon",
-            //                     "diamonddust",
-            //                     "one-wingedangel"
-            //                 ]
-            //             ]
-            //         }
-            //     ]
-            // },
         ]
     }
 }

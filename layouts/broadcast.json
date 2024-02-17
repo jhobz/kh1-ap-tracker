@@ -1,10 +1,13 @@
-﻿//sets the layout for the broadcast view
-{
+﻿{
     "tracker_broadcast": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
+            {
+                "type": "layout",
+                "key": "world_grid"
+            },
             {
                 "type": "array",
                 "orientation": "horizontal",
@@ -12,7 +15,11 @@
                 "content": [
                     {
                         "type": "layout",
-                        "key": "shared_item_grid"
+                        "key": "key_item_grid"
+                    },
+                    {
+                        "type": "layout",
+                        "key": "sora_item_grid"
                     }
                 ]
             }
